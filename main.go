@@ -1,4 +1,4 @@
-
+// Это пример комментария
 package main
 
 import (
