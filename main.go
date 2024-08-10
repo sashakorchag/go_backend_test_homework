@@ -1,4 +1,4 @@
-// use pack
+
 package main
 
 import (
